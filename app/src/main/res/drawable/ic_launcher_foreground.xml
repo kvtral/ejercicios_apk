@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- barra -->
+    <path android:fillColor="#FFFFFF" android:pathData="M40,51h28v6h-28z" />
+    <!-- discos izquierdos -->
+    <path android:fillColor="#FFFFFF" android:pathData="M33,38h7v32h-7z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M26,43h6v22h-6z" />
+    <!-- discos derechos -->
+    <path android:fillColor="#FFFFFF" android:pathData="M68,38h7v32h-7z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M76,43h6v22h-6z" />
+</vector>
