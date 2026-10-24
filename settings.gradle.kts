@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Ejercicios en Casa"
 include(":app")
+include(":joystick")

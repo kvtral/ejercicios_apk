@@ -1,5 +1,9 @@
 # Ejercicios en Casa 🏋️
 
+> Este repositorio también incluye **[Mando Xbox](joystick/README.md)** (módulo
+> `:joystick`), una app que usa el móvil como mando inalámbrico de la Xbox mediante
+> Remote Play.
+
 App Android para entrenar en casa con **rutinas por tiempo**: cada ejercicio se
 ejecuta durante un tiempo de trabajo, con **descansos entre series** y entre
 ejercicios, y un **ejemplo animado** de cómo hacer cada movimiento.

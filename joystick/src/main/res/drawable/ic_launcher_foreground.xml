@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Silueta de mando con cruceta y cuatro botones. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M38,38h32c9,0 15,8 17,18l3,14c1,5 -3,9 -8,8c-4,-1 -6,-4 -9,-8l-3,-4h-32l-3,4c-3,4 -5,7 -9,8c-5,1 -9,-3 -8,-8l3,-14c2,-10 8,-18 17,-18z" />
+    <path
+        android:fillColor="#FF107C10"
+        android:pathData="M37,48h4v5h5v4h-5v5h-4v-5h-5v-4h5z" />
+    <path
+        android:fillColor="#FF107C10"
+        android:pathData="M70,47a2.5,2.5 0,1 1,0 5a2.5,2.5 0,1 1,0 -5zM70,58a2.5,2.5 0,1 1,0 5a2.5,2.5 0,1 1,0 -5zM64.5,52.5a2.5,2.5 0,1 1,0 5a2.5,2.5 0,1 1,0 -5zM75.5,52.5a2.5,2.5 0,1 1,0 5a2.5,2.5 0,1 1,0 -5z" />
+</vector>
